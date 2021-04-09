@@ -4,7 +4,7 @@
 </p>
 
 ## About the Project
-The project has been developed by 2 undergraduate students (Parminder Saini and Jims Nacaya) at Aston University, as part of the first-year module "Java Program Development".
+The project has been developed by 2 undergraduate students (Parminder Saini and Jims Nacaya) at Aston University, as part of the first-year module "Java Program Development", using Java and the JavaFX Scene Builder.
 Link to GitHub profiles:
 <ul>
 <li><a href = "https://github.com/Parmo7"   > Parminder </a></li>
