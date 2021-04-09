@@ -14,9 +14,9 @@ Link to GitHub profiles:
 ### The Task
 The task is to develop a simulation of an elevator within an office building. Different types of users will randomly enter the building and may attempt to use the elevator. The goal of the simulation is to see how much internal and external activity can be handled by the elevator. The types of users that may queue up to take the elevator are:
 <ul>
-<li>Non-Developer Employees : they attempt to go to any other floor with the same probability.</li>
+<li>Non-Developer Employees : they attempt to go to any  floor with the same probability.</li>
 <li>Developers: they only work in the top half of the building, and may randomly decide to move to another floor in the top half.</li>
-<li>Maintenance crews: they always go to the top floor and requires 4 spaces in the elevator. </li>
+<li>Maintenance crews: they always go to the top floor and require 4 spaces in the elevator. After a few ticks, they return to the ground floor and leave.</li>
 <li>Clients: they enter the building and go to one of the floors in the bottom half of the building. After a few ticks, they return to the ground floor and leave. </li>
 </ul>
 
