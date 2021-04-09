@@ -5,11 +5,10 @@
 
 ## About the Project
 The project has been developed by 2 undergraduate students (Parminder Saini and Jims Nacaya) at Aston University, as part of the first-year module "Java Program Development".
-<br/>
 Link to GitHub profiles:
 <ul>
-<li> Parminder <a href = "https://github.com/Parmo7"    /> </li>
-<li> Jims      <a href = "https://github.com/PochitaOP" />   </li>
+<li><a href = "https://github.com/Parmo7"   > Parminder </a></li>
+<li><a href = "https://github.com/PochitaOP"> Jims  </a></li>
 </ul>
 
 ### The Task
