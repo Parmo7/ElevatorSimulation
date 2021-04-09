@@ -4,7 +4,7 @@
 </p>
 
 ## About the Project
-The project has been developed by 2 undergraduate students (Parminder Saini and Jims Nicaya) at Aston University, as part of the first-year module "Java Program Development".
+The project has been developed by 2 undergraduate students (Parminder Saini and Jims Nacaya) at Aston University, as part of the first-year module "Java Program Development".
 
 ### The Task
 The task is to develop a simulation of an elevator within an office building. Different types of users will randomly enter the building and may attempt to use the elevator. The goal of the simulation is to see how much internal and external activity can be handled by the elevator. The types of users that may queue up to take the elevator are:
