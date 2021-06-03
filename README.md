@@ -4,11 +4,11 @@
 </p>
 
 ## About the Project
-The project has been developed by 2 undergraduate students (Parminder Saini and Jims Nacaya) at Aston University, as part of the first-year module "Java Program Development", using Java and the JavaFX Scene Builder.
-Link to GitHub profiles:
+The project has been developed by 3 undergraduate students at Aston University, as part of the first-year module "Java Program Development", using Java and the JavaFX Scene Builder. Contributors:
 <ul>
-<li><a href = "https://github.com/Parmo7"   > Parminder </a></li>
-<li><a href = "https://github.com/PochitaOP"> Jims  </a></li>
+<li><a href = "https://github.com/Parmo7"   > Parminder Saini</a></li>
+<li><a href = "https://github.com/PochitaOP"> Jims Nacaya</a></li>
+<li>Temitayo Adeyemi</li>
 </ul>
 
 ### The Task
